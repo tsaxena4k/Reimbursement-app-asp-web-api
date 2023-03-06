@@ -1,0 +1,67 @@
+<div class="row justify-content-center align-items-center">
+    <div class="col-auto">
+    </div>
+    <div class="card m-sm-3">
+        <div class="card-title text-center p-2">
+            <h3 class="m-0">SIGNUP</h3>
+            <p class="text-danger">{{message}}</p>
+        </div>
+        <div class="card-body">
+            <form autocomplete="off" class="row">
+                <div class="col-sm-6">
+                    <div class="mb-3">
+                        <label for="userEmail" class="form-label">Email address</label>
+                        <input type="email" class="form-control" [(ngModel)]="Email" name="userEmail" id="userEmail"
+                            aria-describedby="emailHelp">
+                        <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+                    </div>
+                    <div class="mb-3">
+                        <label for="userName" class="form-label">Full Name</label>
+                        <input type="text" class="form-control" [(ngModel)]="FullName" name="userName" id="userName"
+                            aria-describedby="emailHelp">
+                    </div>
+                    <div class="mb-3">
+                        <label for="userPassword" class="form-label">Password</label>
+                        <input type="password" class="form-control" [(ngModel)]="Password" name="userPassword"
+                            id="userPassword">
+                    </div>
+                    <div class="mb-3">
+                        <label for="userConfirmPassword" class="form-label">Confirm Password</label>
+                        <input type="password" class="form-control" [(ngModel)]="ConfirmPassword"
+                            name="userConfirmPassword" id="userConfirmPassword">
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="mb-3">
+                        <label for="userPan" class="form-label">PAN</label>
+                        <input type="text" minlength="10" maxlength="10" [(ngModel)]="PANNumber" class="form-control"
+                            name="userPan" id="userPan" aria-describedby="emailHelp">
+                        <div id="emailHelp" class="form-text">10 digit alphanumeric only</div>
+                    </div>
+                    <div class="mb-3">
+                        <label for="userBankAcc" class="form-label">Bank Account</label>
+                        <input type="number" class="form-control" [(ngModel)]="BankAccNumber" name="userBankAcc"
+                            id="userBankAcc" aria-describedby="emailHelp">
+                        <div id="emailHelp" class="form-text">12 digit numeric only</div>
+                    </div>
+                    <div class="mb-3">
+                        <label for="userBank" class="form-label">Bank Account</label>
+                        <select class="form-select" aria-label="userBank" [(ngModel)]="Bank" name="userBank"
+                            id="userBank">
+                            <option selected>Select</option>
+                            <option value="SBI">SBI</option>
+                            <option value="BOB">BOB</option>
+                            <option value="HDFC">HDFC</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-sm-12">
+                    <p>Already Regestered <a [routerLink]="['/']" routerLinkActive="router-link-active">Login here</a>
+                    </p>
+                    <button (click)="Signup()" class="btn w-100 btn-primary">Sign up</button>
+                </div>
+            </form>
+
+        </div>
+    </div>
+</div>

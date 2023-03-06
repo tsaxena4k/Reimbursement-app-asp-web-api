@@ -1,0 +1,207 @@
+<app-graphs></app-graphs>
+
+<div class="spinner-border" role="status" *ngIf="loading">
+    <span class="visually-hidden">Loading...</span>
+</div>
+<div class="row">
+    <div class="col-12">
+        <div class="card" *ngIf="!loading">
+            <div class="card-header">
+                <div class="row justify-content-between align-items-center">
+                    <div class="col-auto">
+                        <h3 class="m-0">All Reimbursements</h3>
+                    </div>
+                    <div class="col-auto">
+                        <p class="text-danger">{{message}}</p>
+                    </div>
+                    <div class="col-auto">
+                        <button (click)="Reset()" class="btn btn-success btn-sm">Reset <i
+                                class="fa-solid fa-arrows-rotate"></i></button>
+                    </div>
+                </div>
+            </div>
+            <div class="card-body">
+                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home"
+                            type="button" role="tab" aria-controls="home" aria-selected="true">Pending</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile"
+                            type="button" role="tab" aria-controls="profile" aria-selected="false">Declined</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="contact-tab" data-bs-toggle="tab" data-bs-target="#contact"
+                            type="button" role="tab" aria-controls="contact" aria-selected="false">Approved</button>
+                    </li>
+                </ul>
+                <div class="d-flex justify-content-between my-3">
+                    <div class="row g-3 align-items-center">
+                        <div class="col-auto">
+                            <label for="search" class="col-form-label">Search</label>
+                        </div>
+                        <div class="col-auto">
+                            <input type="text" id="search" class="form-control" placeholder="Enter email here"
+                                (change)="onChangeEmail($event)" [(ngModel)]="searchByEmail">
+                        </div>
+                    </div>
+                    <div class="row g-3 align-items-center">
+                        <div class="col-auto">
+                            <label for="reimbursementTypeFilter" class="col-form-label">Reimbursement Type</label>
+                        </div>
+                        <div class="col-auto">
+                            <select class="form-select" (change)="onChange($event)" id="reimbursementTypeFilter"
+                                [(ngModel)]="selected">
+                                <option selected value="All">All</option>
+                                <option value="Medical">Medical</option>
+                                <option value="Travel">Travel</option>
+                                <option value="Food">Food</option>
+                                <option value="Entertainment">Entertainment</option>
+                                <option value="Misc">Misc</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-content" id="myTabContent">
+                    <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                        <div class="table-wrapper">
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">#</th>
+                                        <th scope="col">Date</th>
+                                        <th scope="col">Requested By</th>
+                                        <th scope="col">Reimbursement Type</th>
+                                        <th scope="col">Requested Value</th>
+                                        <th scope="col">Currency</th>
+                                        <th scope="col">Receipt Attached</th>
+                                        <th scope="col">Action</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr *ngFor="let reimburse of pendingReimbursements; let i=index">
+                                        <th scope="row">{{i+1}}</th>
+                                        <td>{{reimburse.date}}</td>
+                                        <td>{{reimburse.userId}}</td>
+                                        <td>{{reimburse.reimbursementType}}</td>
+                                        <td>{{reimburse.requestedValue}}</td>
+                                        <td>{{reimburse.currency}}</td>
+                                        <td>{{reimburse.image?"Yes":"No"}}</td>
+                                        <td>
+                                            <button (click)="declineReimbursement(reimburse.id)"
+                                                class="btn btn-danger btn-sm me-2">Decline</button>
+                                            <button (click)="getReimbursement(reimburse.id)"
+                                                class="btn btn-success btn-sm" data-bs-toggle="modal"
+                                                data-bs-target="#approveRequest">Approve</button>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                        <div class="table-wrapper">
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">#</th>
+                                        <th scope="col">Date</th>
+                                        <th scope="col">Requested By</th>
+                                        <th scope="col">Reimbursement Type</th>
+                                        <th scope="col">Requested Value</th>
+                                        <th scope="col">Currency</th>
+                                        <th scope="col">Receipt Attached</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr *ngFor="let reimburse of declinedReimbursements; let i=index">
+                                        <th scope="row">{{i+1}}</th>
+                                        <td>{{reimburse.date}}</td>
+                                        <td>{{reimburse.userId}}</td>
+                                        <td>{{reimburse.reimbursementType}}</td>
+                                        <td>{{reimburse.requestedValue}}</td>
+                                        <td>{{reimburse.currency}}</td>
+                                        <td>{{reimburse.image?"Yes":"No"}}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
+                        <div class="table-wrapper">
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">#</th>
+                                        <th scope="col">Date</th>
+                                        <th scope="col">Requested By</th>
+                                        <th scope="col">Reimbursement Type</th>
+                                        <th scope="col">Requested Value</th>
+                                        <th scope="col">Currency</th>
+                                        <th scope="col">Receipt Attached</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr *ngFor="let reimburse of approvedReimbursements; let i=index">
+                                        <th scope="row">{{i+1}}</th>
+                                        <td>{{reimburse.date}}</td>
+                                        <td>{{reimburse.userId}}</td>
+                                        <td>{{reimburse.reimbursementType}}</td>
+                                        <td>{{reimburse.requestedValue}}</td>
+                                        <td>{{reimburse.currency}}</td>
+                                        <td>{{reimburse.image?"Yes":"No"}}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--Approve Request Modal -->
+<div class="modal fade" id="approveRequest" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Approve Reimbursement</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="row align-items-center mb-3">
+                    <div class="col-6">
+                        <label for="approvedBy" class="form-label">Approved By:</label>
+                    </div>
+                    <div class="col-6">
+                        <input type="text" class="form-control" [(ngModel)]="currentReimburse.approvedBy"
+                            name="approvedBy" id="approvedBy">
+                    </div>
+                </div>
+                <div class="row align-items-center mb-3">
+                    <div class="col-6">
+                        <label for="approvedAmount" class="form-label">Approved Amount:</label>
+                    </div>
+                    <div class="col-6">
+                        <input type="text" class="form-control" [(ngModel)]="currentReimburse.approvedValue"
+                            name="approvedAmount" id="approvedAmount">
+                    </div>
+                </div>
+                <div class="row align-items-center mb-3">
+                    <div class="col-6">
+                        <label for="internalNotes" class="form-label">Internal Notes:</label>
+                    </div>
+                    <div class="col-6">
+                        <input type="text" class="form-control" [(ngModel)]="currentReimburse.internalNotes"
+                            name="internalNotes" id="internalNotes">
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button (click)="approveReimbursement()" class="btn btn-success">Approve</button>
+            </div>
+        </div>
+    </div>
+</div>

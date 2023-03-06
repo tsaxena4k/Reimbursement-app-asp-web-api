@@ -1,0 +1,1167 @@
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\appsettings.Development.json
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\appsettings.json
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.PL.exe
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.PL.deps.json
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.PL.runtimeconfig.json
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.PL.runtimeconfig.dev.json
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.PL.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\ref\TSReimbursementApp.PL.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.PL.pdb
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.csproj.AssemblyReference.cache
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.AssemblyInfoInputs.cache
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.AssemblyInfo.cs
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.csproj.CoreCompileInputs.cache
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.MvcApplicationPartsAssemblyInfo.cs
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.MvcApplicationPartsAssemblyInfo.cache
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\staticwebassets\TSReimbursementApp.PL.StaticWebAssets.Manifest.cache
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\staticwebassets\TSReimbursementApp.PL.StaticWebAssets.xml
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\scopedcss\bundle\TSReimbursementApp.PL.styles.css
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.RazorTargetAssemblyInfo.cache
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.csproj.CopyComplete
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\ref\TSReimbursementApp.PL.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.pdb
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.genruntimeconfig.cache
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\mscorlib.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\netstandard.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Collections.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Console.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Core.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Data.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Linq.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Memory.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Web.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Windows.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Xml.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.DAL.deps.json
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.DAL.runtimeconfig.json
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.DAL.runtimeconfig.dev.json
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.DAL.exe
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.DAL.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.DAL.pdb
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Humanizer.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\AutoMapper.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.BL.deps.json
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.BL.runtimeconfig.json
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.BL.runtimeconfig.dev.json
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.BL.exe
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.BL.dll
+D:\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.BL.pdb
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.BL.deps.json
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.BL.runtimeconfig.json
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.BL.runtimeconfig.dev.json
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.DAL.deps.json
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.DAL.runtimeconfig.json
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.DAL.runtimeconfig.dev.json
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.DAL.exe
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.BL.exe
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\appsettings.Development.json
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\appsettings.json
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.PL.exe
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.PL.deps.json
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.PL.runtimeconfig.json
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.PL.runtimeconfig.dev.json
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.PL.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\ref\TSReimbursementApp.PL.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.PL.pdb
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\mscorlib.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\netstandard.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Collections.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Console.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Core.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Data.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Linq.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Memory.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Web.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Windows.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Xml.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\AutoMapper.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Humanizer.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.BL.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.DAL.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.BL.pdb
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.DAL.pdb
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.csproj.AssemblyReference.cache
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.AssemblyInfoInputs.cache
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.AssemblyInfo.cs
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.csproj.CoreCompileInputs.cache
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.MvcApplicationPartsAssemblyInfo.cs
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.MvcApplicationPartsAssemblyInfo.cache
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\staticwebassets\TSReimbursementApp.PL.StaticWebAssets.Manifest.cache
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\staticwebassets\TSReimbursementApp.PL.StaticWebAssets.xml
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\scopedcss\bundle\TSReimbursementApp.PL.styles.css
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.RazorTargetAssemblyInfo.cache
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.csproj.CopyComplete
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\ref\TSReimbursementApp.PL.dll
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.pdb
+D:\.Net Nagarro\Final Assignment\TSReimbursementApp\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.genruntimeconfig.cache
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.BL.deps.json
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.BL.runtimeconfig.json
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.BL.runtimeconfig.dev.json
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.DAL.deps.json
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.DAL.runtimeconfig.json
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.DAL.runtimeconfig.dev.json
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.DAL.exe
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.BL.exe
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\appsettings.Development.json
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\appsettings.json
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.PL.exe
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.PL.deps.json
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.PL.runtimeconfig.json
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.PL.runtimeconfig.dev.json
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.PL.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\ref\TSReimbursementApp.PL.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.PL.pdb
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\mscorlib.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\netstandard.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Collections.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Console.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Core.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Data.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Linq.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Memory.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Web.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Windows.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Xml.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\AutoMapper.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Humanizer.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.BL.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.DAL.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.BL.pdb
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\bin\Debug\net5.0\TSReimbursementApp.DAL.pdb
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.csproj.AssemblyReference.cache
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.AssemblyInfoInputs.cache
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.AssemblyInfo.cs
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.csproj.CoreCompileInputs.cache
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.MvcApplicationPartsAssemblyInfo.cs
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.MvcApplicationPartsAssemblyInfo.cache
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\obj\Debug\net5.0\staticwebassets\TSReimbursementApp.PL.StaticWebAssets.Manifest.cache
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\obj\Debug\net5.0\staticwebassets\TSReimbursementApp.PL.StaticWebAssets.xml
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\obj\Debug\net5.0\scopedcss\bundle\TSReimbursementApp.PL.styles.css
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.RazorTargetAssemblyInfo.cache
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.csproj.CopyComplete
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\obj\Debug\net5.0\ref\TSReimbursementApp.PL.dll
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.pdb
+D:\ReimbursemnetAPP\TSReimbursementApp.PL\obj\Debug\net5.0\TSReimbursementApp.PL.genruntimeconfig.cache
