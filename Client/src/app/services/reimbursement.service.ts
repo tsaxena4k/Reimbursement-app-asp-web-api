@@ -3,7 +3,7 @@ import { Injectable } from '@angular/core';
 import { BehaviorSubject, Observable, retry } from 'rxjs';
 import { Reimburse } from '../models/reimburse.model';
 import { User } from '../models/User/user.model';
-const baseUrl = 'http://www.tsreimbursementapp.somee.com/api';
+const baseUrl = 'https://www.tsreimbursementapp.somee.com/api';
 const tokenHeader = new HttpHeaders({ 'Authorization': 'Bearer ' + localStorage.getItem('token') });
 
 @Injectable({
